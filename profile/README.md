@@ -1,5 +1,5 @@
 
-# 🎉 Bem-vindo ao Projeto de Captive Portal para ESP32 e NodeMCU ESP8266! 🌐
+# 🎉 Bem-vindo ao Projeto de Captive Portal para ESP32,NodeMCU ESP8266 e Nodogsplash(raspberry pi)! 🌐
 
 ![Design sem nome (1)](https://github.com/user-attachments/assets/6660a460-5d1c-4d2a-b6db-23345ae37fad)
 
@@ -7,6 +7,7 @@
 ### Acesso rapido
 - [Projeto ESP32 -LORATTGO sem HTTPS](https://github.com/PIC-projeto-Humanidades/captive-portal-micro/tree/esp32-with-http)
 - [Projeto ESP8266 - Nodemcu com HTTPS](https://github.com/PIC-projeto-Humanidades/captive-portal-micro/tree/esp8266-with-https)
+- [Projeto Nodogsplash - raspberry](https://github.com/PIC-projeto-Humanidades/captive-portal-raspberry-pi)
 
 Este repositório traz uma solução acessível para implementar um sistema de captive portal em placas de baixo custo, como ESP8266 e ESP32. O projeto é voltado para quem deseja controlar o acesso em redes Wi-Fi de forma eficiente e econômica, ideal para comunidades remotas ou locais com infraestrutura limitada. 🌍 Aproveite para explorar e utilizar essa tecnologia para promover a inclusão digital e facilitar o acesso seguro à internet em qualquer lugar! 🚀
 
