@@ -5,8 +5,8 @@
 
 
 ### Acesso rapido
-- [Projeto ESP32 -LORATTGO sem HTTPS](https://github.com/PIC-projeto-Humanidades/captive-portal-esp8266/tree/main)
-- [Projeto ESP8266 - Nodemcu com HTTPS](https://github.com/PIC-projeto-Humanidades/captive-portal-esp8266/tree/esp8266-with-https)
+- [Projeto ESP32 -LORATTGO sem HTTPS](https://github.com/PIC-projeto-Humanidades/captive-portal-micro/tree/esp32-with-http)
+- [Projeto ESP8266 - Nodemcu com HTTPS](https://github.com/PIC-projeto-Humanidades/captive-portal-micro/tree/esp8266-with-https)
 
 Este repositório traz uma solução acessível para implementar um sistema de captive portal em placas de baixo custo, como ESP8266 e ESP32. O projeto é voltado para quem deseja controlar o acesso em redes Wi-Fi de forma eficiente e econômica, ideal para comunidades remotas ou locais com infraestrutura limitada. 🌍 Aproveite para explorar e utilizar essa tecnologia para promover a inclusão digital e facilitar o acesso seguro à internet em qualquer lugar! 🚀
 
