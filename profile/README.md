@@ -7,7 +7,7 @@
 
 O projeto consiste no desenvolvimento de um dispositivo autônomo baseado em Linux para realizar a transferência automática de dados entre dispositivos similares ao se aproximarem. A ideia é criar uma rede descentralizada de transmissão contínua, sem a necessidade de interação humana para iniciar o processo. Dessa forma, o dispositivo A transferirá os dados para o dispositivo B, que, por sua vez, continuará o fluxo para o dispositivo C, e assim por diante.
 
-##  Projeto de Captive Portal para ESP32,NodeMCU ESP8266 e Nodogsplash(raspberry pi)! 🌐
+## 🔗  Projeto de Captive Portal para ESP32,NodeMCU ESP8266 e Nodogsplash(raspberry pi)! 🌐
 ### Acesso rapido
 - [Projeto ESP32 -LORATTGO sem HTTPS](https://github.com/PIC-projeto-Humanidades/captive-portal-micro/tree/esp32-with-http)
 - [Projeto ESP8266 - Nodemcu com HTTPS](https://github.com/PIC-projeto-Humanidades/captive-portal-micro/tree/esp8266-with-https)
